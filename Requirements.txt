@@ -4,3 +4,4 @@ Memberships
 * Bassic plan link should poing to regular Devise sign up form
 * Pro plan link should point to a custom sign up form
     * Collect credit card info
+
